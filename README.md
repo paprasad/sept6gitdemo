@@ -1,1 +1,2 @@
-# sept6gitdemo
+# Heading 1
+## Heading 2
